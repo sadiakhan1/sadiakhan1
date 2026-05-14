@@ -2,6 +2,6 @@
 
 - 🎓 CS @ NC State
 - 💡 Interested in: artificial intelligence, large language models, human-centered interactions, and data visualization
-- 🌱 Currently learning: full-stack development + data structures
+- 🌿 Check out my [LinkedIn](https://www.linkedin.com/in/sadiatkhan)
 - 😄 Pronouns: she/her
-- 📍 Based in North Carolina
+- 📍 North Carolina
