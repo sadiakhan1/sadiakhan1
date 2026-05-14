@@ -5,8 +5,3 @@
 - 🌱 Currently learning: full-stack development + data structures
 - 😄 Pronouns: she/her
 - 📍 Based in North Carolina
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiakhan1&layout=compact" />
-</p>
